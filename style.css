@@ -1,0 +1,49 @@
+
+
+body{
+    background-color:whitesmoke;
+    
+}
+
+
+
+.container{
+    text-align:justify !important;
+}
+
+#img{
+    max-width:80%; 
+    height:auto;
+    border:1px lavender;
+    
+}
+
+#img:hover{
+    border:1px solid;
+    cursor: pointer;
+}
+
+span{
+    font-weight: bold;
+}
+
+#fotos{
+    border-radius: 10px !important;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+a h1{
+    text-decoration:none;
+    color:lavender!important;
+   
+
+}
+
+
+
+a:hover{
+    text-decoration:none !important;
+    
+}
