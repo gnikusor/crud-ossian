@@ -16,7 +16,7 @@ foreach($data as $valor){
 }
 
 
-//AGREGAMOS LA CONEXION A LA BASE DE DATOS
+//AGREGAMOS LA CONEXION DE BASE DE DATOS
 include_once( 'connection-bd.php' );
 
 //RECORREMOS EL ARRAY $datos
